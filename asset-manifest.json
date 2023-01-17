@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/practic-routes1/static/css/main.e46a9b46.css",
+    "main.js": "/practic-routes1/static/js/main.fd585e07.js",
+    "static/js/787.c844668c.chunk.js": "/practic-routes1/static/js/787.c844668c.chunk.js",
+    "index.html": "/practic-routes1/index.html",
+    "main.e46a9b46.css.map": "/practic-routes1/static/css/main.e46a9b46.css.map",
+    "main.fd585e07.js.map": "/practic-routes1/static/js/main.fd585e07.js.map",
+    "787.c844668c.chunk.js.map": "/practic-routes1/static/js/787.c844668c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e46a9b46.css",
+    "static/js/main.fd585e07.js"
+  ]
+}
