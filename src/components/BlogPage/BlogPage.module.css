@@ -1,0 +1,12 @@
+.blogPage a{
+    color:black;
+}
+.blogPage__addPost{
+    border-bottom: 2px solid black;
+    width: fit-content;
+    padding: 2px;
+    background-color: rgb(193, 204, 204);
+}
+.blogPage__addPost a{
+    margin: 0;
+}

@@ -1,0 +1,38 @@
+.header{
+    margin: 15px;
+}
+.header__nav{
+    padding: 10px;
+    background-image: linear-gradient(to right,rgb(71, 69, 69),rgb(17, 32, 34));
+    display: flex;
+}
+.header h1{
+    font-size: 20px;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+a{
+ display: block;
+ padding: 5px;
+ margin-left: 15px;
+ text-decoration: none;
+ font-size: 18px;
+ font-family: sans-serif;
+ border: 1px solid transparent;
+ color: white;
+}
+a:hover{
+    background-image:linear-gradient(to left,rgb(177, 174, 174),rgb(154, 203, 209));
+}
+/* :global(a.active){
+    border: 1px solid rgb(155, 138, 153);
+    color: rgb(206, 193, 204);
+} */
+.main{
+    padding: 15px;
+}
+.myActive{
+    border: 1px solid rgb(155, 138, 153);
+    box-shadow: 2px 2px 2px rgb(179, 116, 116);
+    color: rgb(218, 157, 65);
+}
